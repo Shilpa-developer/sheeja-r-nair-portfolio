@@ -1,20 +1,56 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Sheeja R Nair — Portfolio
 
-# Run and deploy your AI Studio app
+A modern, responsive personal portfolio website designed and developed for educator, storyteller, and language trainer **Sheeja R Nair**.
 
-This contains everything you need to run your app locally.
+🔗 **Live Website:** https://sheeja-r-nair-portfolio.netlify.app/
 
-View your app in AI Studio: https://ai.studio/apps/6adc9921-a587-4ea8-a685-7dc9138518ba
+## ✨ Features
 
-## Run Locally
+- Modern editorial-style UI
+- Fully responsive design
+- Interactive navigation
+- Storytelling and training sections
+- Professional experience timeline
+- Contact / invitation form
+- LinkedIn & Instagram integration
+- Personal photography and branding
+- Smooth animations and interactive elements
 
-**Prerequisites:**  Node.js
+## 🛠️ Tech Stack
 
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Lucide React
+- HTML & CSS
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Development
+
+Built initially with **Google AI Studio** and refined locally using **Visual Studio Code**.
+
+### Run Locally
+
+**Install dependencies:**
+`npm install`
+
+**Start development server:**
+`npm run dev`
+
+### Production Build
+
+`npm run build`
+
+## 🌐 Deployment
+
+Deployed using **Netlify** with continuous deployment connected to GitHub. Updates pushed to the `main` branch can automatically trigger a new deployment.
+
+---
+
+## 🌸 Designed & Developed By
+
+**Shilpa**
+
+Pixel & Petal — Web Design & Development
+
+© 2026 Pixel & Petal · Crafted with ♡ by Shilpa 🌸
